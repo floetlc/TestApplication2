@@ -8,6 +8,6 @@ namespace TestApplication
 {
     class Class1
     {
-        public static string value = "blah";
+        public static string value = "blah2";
     }
 }
